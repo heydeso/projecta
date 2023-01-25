@@ -1,0 +1,47 @@
+body {
+    background-color: #883E9D;
+}
+
+@media only screen and (max-width: 800px) {
+  body {
+    background-color: white;
+  }
+}
+
+h1 {
+  color: #FFFFFF;
+  font-size: 72px;
+  text-align: center;
+  font-family: serif;
+}
+
+h2 {
+  color: #FFFFFF;
+  font-size: 36px;
+  text-align: center;
+}
+
+h3 {
+  color: #FFFFFF;
+  font-size: 24px;
+  text-align: center;
+}
+
+h4 {
+  color: #FFFFFF;
+  font-size: 16px;
+  text-align: center;
+}
+
+p {
+  color: white;
+  text-align: center;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
